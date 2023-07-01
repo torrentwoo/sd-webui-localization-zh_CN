@@ -49,6 +49,7 @@
 1. 通过点击顶部的 `Settings` 选项卡，切换到配置界面；
 2. 在左侧找到并点击 `Actions` 项，定位到操作界面；
 3. 再点击 `Download localization template` 按钮，会得到一份 `localization.json` 文件；
-4. `localization.json` 文件便是翻译模板，它包含了您当前使用的 `Stable Diffusion web UI` 的所有语言模板。
+4. `localization.json` 文件便是翻译模板，它包含了您当前使用的 `Stable Diffusion web UI` 的语言模板；
+5. 另外在 `stable-diffusion-webui/javascript` 目录下的 `*hints.js` 文件内包含了部分上述步骤无法提取的语句。
 
 ![](Contribution.png)
