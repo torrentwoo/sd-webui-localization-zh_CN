@@ -2,6 +2,14 @@
 
 本文档记载了自 2023-06-30 以来的所有变更。
 
+## 2023-07-02
+
+`Stable Diffusion web UI` 版本 [v1.4.0-RC-18-gecc10c11](https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/v1.4.0-RC)
+
+- 更新翻译
+- 增补部分通知信息的翻译
+- 更新 [README](README.md) 的“更新本地翻译”章节
+
 ## 2023-07-01
 
 `Stable Diffusion web UI` 版本 [v1.4.0-RC-18-gecc10c11](https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/v1.4.0-RC)
