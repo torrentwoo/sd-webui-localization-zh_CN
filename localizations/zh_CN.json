@@ -749,7 +749,7 @@
     "Do not append detectmap to output": "不要将检测图附加到输出中",
     "Allow detectmap auto saving": "允许检测图自动保存",
     "Allow other script to control this extension": "允许其他脚本控制此扩展",
-    "Passing ControlNet parameters with \"Send to img2img\"": "使用“发送到 图生图”是传递 控制网 参数",
+    "Passing ControlNet parameters with \"Send to img2img\"": "使用“发送到 图生图”时传递 控制网 参数",
     "Show batch images in gradio gallery output": "在输出界面中批量展示图像",
     "Increment seed after each controlnet batch iteration": "在每次 控制网 批处理迭代之后递增种子值",
     "Disable control type selection": "禁用控制类型选择",
