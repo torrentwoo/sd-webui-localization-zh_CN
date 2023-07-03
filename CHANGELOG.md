@@ -2,6 +2,14 @@
 
 本文档记载了自 2023-06-30 以来的所有变更。
 
+## 2023-07-03
+
+`Stable Diffusion web UI` 版本 [v1.4.0-RC-18-gecc10c11](https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/v1.4.0-RC)
+
+- 更新和修正 [ControlNet](https://github.com/Mikubill/sd-webui-controlnet.git) 的翻译
+- 区分同名翻译（注：仅在 [journey-ad/sd-webui-bilingual-localization](https://github.com/journey-ad/sd-webui-bilingual-localization) 双语翻译加持下生效）
+- 更新 [README](README.md)
+
 ## 2023-07-02
 
 `Stable Diffusion web UI` 版本 [v1.4.0-RC-18-gecc10c11](https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/v1.4.0-RC)
