@@ -10,6 +10,7 @@
 - 增补内建脚本名称的翻译
 - 对 `GFPGAN` 和 `CodeFormer` 分别作了注解
 - 简化部分文字过长的翻译
+- 增加对 [Catppuccin Theme](https://github.com/catppuccin/stable-diffusion-webui) 的翻译
 
 ## 2023-07-03
 
