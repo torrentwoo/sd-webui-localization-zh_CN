@@ -2,6 +2,15 @@
 
 本文档记载了自 2023-06-30 以来的所有变更。
 
+## 2023-07-04
+
+`Stable Diffusion web UI` 版本 [v1.4.0-RC-18-gecc10c11](https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/v1.4.0-RC)
+
+- 增加对 [ControlNet v1.1.228](https://github.com/Mikubill/sd-webui-controlnet/tree/b9e09db324e4bf18d3a107fa4bfda501aaf3f6b5) 常用预处理器的翻译
+- 增补内建脚本名称的翻译
+- 对 `GFPGAN` 和 `CodeFormer` 分别作了注解
+- 简化部分文字过长的翻译
+
 ## 2023-07-03
 
 `Stable Diffusion web UI` 版本 [v1.4.0-RC-18-gecc10c11](https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/v1.4.0-RC)
