@@ -2,6 +2,13 @@
 
 本文档记载了自 2023-06-30 以来的所有变更。
 
+## 2023-12-08
+
+`Stable Diffusion web UI` 版本 [v1.6.0-3-g664ddfba](https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/v1.6.0)
+
+- 增补对 `ControlNet v1.1.419` 的翻译
+- 修正了一些以往语焉不详的翻译条目
+
 ## 2023-07-04
 
 `Stable Diffusion web UI` 版本 [v1.4.0-RC-18-gecc10c11](https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/v1.4.0-RC)
